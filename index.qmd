@@ -10,7 +10,7 @@ I am currently working with Professor **X.T. Wang**, who is my PhD advisor. My r
 
 <div style="clear: both;"></div>
 
-## Publications
+## Selected Publications
 
 1. **Xiao, F.**, Peng, Q., & Wang, X. T.<sup>&#42;</sup> (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080.  
    [DOI](https://doi.org/10.1093/scan/nsaf080)
@@ -27,10 +27,6 @@ I am currently working with Professor **X.T. Wang**, who is my PhD advisor. My r
 5. **Xiao, F.**, & Wang, X. T.<sup>&#42;</sup> (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017.  
    [DOI](https://doi.org/10.70322/ldmh.2025.10017)
 
-6. Lin, Z.<sup>&#42;</sup>, **Xiao, F.**<sup>†</sup>, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.  
-   [DOI](https://doi.org/10.1038/s41433-023-02739-x)
-
 <sup>&#42;</sup> Corresponding author.  
-<sup>†</sup> Equal contribution.
 
 
