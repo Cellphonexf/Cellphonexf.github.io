@@ -2,6 +2,8 @@
 title: "Feng Xiao"
 ---
 
+![](assets/profile.jpg){width=220}
+
 Welcome to my website. I am **Feng Xiao (肖枫)**, a final-year Ph.D. Candidate (expected graduation June, 2027) in Applied Psychology at the **School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**.
 
 I am currently working with Professor **X.T. Wang**. My research broadly focuses on **behavioral decision-making, artificial intelligence and psychology, evolutionary psychology, and cognitive neuroscience**.
