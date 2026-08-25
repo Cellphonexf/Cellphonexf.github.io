@@ -26,6 +26,5 @@ My work draws on a range of experimental and computational approaches, including
 - **Text analysis**
 - **Meta-analysis**
 - **Large language model evaluation**
-- **Animal behavior experiments**
 
 I primarily use **R, MATLAB, and Python** for experimental programming, data analysis, and computational research.
