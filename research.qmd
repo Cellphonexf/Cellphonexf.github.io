@@ -1,36 +1,31 @@
 ---
 title: "Research"
-description: "Research interests and current directions of Feng Xiao."
 ---
 
-My work broadly examines human cognition and behavior across complementary levels of analysis, from behavioral decisions and psychological mechanisms to neural processes, evolutionary functions, and comparisons with artificial intelligence.
+## Research Interests
 
-## Autonoetic consciousness and mental time travel
+My research interests broadly include:
 
-I study psychological processes that allow people to represent themselves across time and to mentally move between present, past, and future states. This line of work combines behavioral experiments with neuroimaging to examine how temporal cognition relates to emotion, perception, and decision-making.
+- **Behavioral Decision-Making**
+- **Artificial Intelligence and Psychology**
+- **Evolutionary Psychology**
+- **Cognitive Neuroscience**
 
-Rather than focusing on a single task or paradigm, I am interested in the broader psychological and functional organization of self-related temporal cognition.
+I am broadly interested in understanding human behavior across psychological, computational, evolutionary, and neurocognitive levels of analysis.
 
-## Psychology and artificial intelligence
+## Research Methods
 
-I use psychological paradigms and behavioral evaluation frameworks to study how artificial intelligence systems perform on tasks originally designed to characterize human cognition and behavior. A central goal is to understand where human and artificial behavioral patterns converge, where they diverge, and what those differences can tell us about both minds and models.
+My work draws on a range of experimental and computational approaches, including:
 
-This work draws on behavioral experimentation, computational analysis, and large-language-model evaluation.
+- **Behavioral experiments**
+- **fNIRS**
+- **fMRI**
+- **EEG**
+- **Eye-tracking**
+- **Machine learning**
+- **Text analysis**
+- **Meta-analysis**
+- **Large language model evaluation**
+- **Animal behavior experiments**
 
-## Storytelling and human behavior
-
-I am interested in storytelling as a widespread human behavior with cognitive, social, and cultural functions. My work examines narrative-related psychological and behavioral mechanisms using behavioral, computational, and neurocognitive approaches.
-
-More broadly, this research asks how recurring features of human cognition and social life become represented and transmitted through narratives.
-
-## Methods
-
-My research uses a combination of:
-
-- Behavioral experiments and experimental psychology
-- fNIRS and fMRI
-- EEG and eye-tracking
-- Computational and statistical analysis
-- Machine learning and text analysis
-- Large language model evaluation
-- MATLAB, R, and Python
+I primarily use **R, MATLAB, and Python** for experimental programming, data analysis, and computational research.
