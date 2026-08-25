@@ -31,7 +31,7 @@ I am currently working with Professor **X.T. Wang**. My research broadly focuses
 5. **Xiao, F.**, & Wang, X. T.<sup>*</sup> (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017.  
    [DOI](https://doi.org/10.70322/ldmh.2025.10017)
 
-6. Lin, Z.<sup>*</sup>, **Xiao, F.<sup>†</sup>**, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.  
+6. Lin, Z.<sup>*</sup>, **Xiao, F.**<sup>†</sup>, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.  
    [DOI](https://doi.org/10.1038/s41433-023-02739-x)
 
 <sup>*</sup> Corresponding author.  
