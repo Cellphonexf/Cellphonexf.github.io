@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-description: "Contact Feng Xiao."
+description: "Feel free to contact me!"
 ---
 
-I welcome academic discussions, research collaborations, and opportunities related to behavioral science, psychology, cognitive neuroscience, evolutionary approaches to human behavior, and the psychological study of artificial intelligence.
+I welcome academic discussions, research collaborations, peer-review invitations, and other opportunities related to behavioral science, psychology, cognitive neuroscience, evolutionary approaches to human behavior, and the psychological study of artificial intelligence.
 
 **Feng Xiao**  
 PhD Candidate in Applied Psychology  
