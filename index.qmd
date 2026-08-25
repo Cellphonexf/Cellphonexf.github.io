@@ -1,61 +1,31 @@
+```markdown
 ---
 title: "Feng Xiao"
-page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-photo}
-![](assets/profile.jpg){fig-alt="Feng Xiao"}
-:::
+Welcome to my website. I am **Feng Xiao (肖枫)**, a final-year Ph.D. Candidate (expected graduation June, 2027) in Applied Psychology at the **School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**.
 
-::: {.hero-text}
-# Feng Xiao
+I am currently working with Professor **X.T. Wang**. My research broadly focuses on **behavioral decision-making, artificial intelligence and psychology, evolutionary psychology, and cognitive neuroscience**.
 
-### PhD Candidate in Applied Psychology
+## Research Interests
 
-**The Chinese University of Hong Kong, Shenzhen**  
-School of Humanities and Social Science
+**Behavioral Decision-Making · Artificial Intelligence and Psychology · Evolutionary Psychology · Cognitive Neuroscience**
 
-I am a behavioral scientist interested in how people make decisions, represent themselves across time, and navigate social environments. My work integrates **behavioral decision-making, psychology and artificial intelligence, evolutionary psychology, and cognitive neuroscience**.
+## Publications
 
-My research combines behavioral experiments with computational approaches and neuroimaging methods, including fNIRS and fMRI. I am especially interested in questions that connect psychological mechanisms with broader functional and evolutionary perspectives.
+1. **Xiao, F.**, Peng, Q., & Wang, X. T. (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080.  
+   [DOI](https://doi.org/10.1093/scan/nsaf080)
 
-[Research](research.qmd){.btn .btn-primary} [Publications](publications.qmd){.btn .btn-outline-primary} [Email me](mailto:fengxiao@link.cuhk.edu.cn){.btn .btn-outline-secondary}
-:::
-:::
+2. **Xiao, F.**, Peng, Q., & Wang, X. T. (2026). Mindfulness with mental time travel: Emotional and behavioral effects of endpoint-focused meditation. *Mindfulness*, 1–12.  
+   [DOI](https://doi.org/10.1007/s12671-026-02959-8)
 
-## Research interests
+3. **Xiao, F.**, Zhang, J., & Wang, X. T. (2026). Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation. *Acta Psychologica, 267*, 107147.  
+   [DOI](https://doi.org/10.1016/j.actpsy.2026.107147)
 
-::: {.research-grid}
-::: {.research-card}
-### Behavioral Decision-Making
-How humans make choices under uncertainty and across time, and how psychological states shape decision processes.
-:::
+4. **Xiao, F.**, & Wang, X. T. (2025). Evaluating the ability of large language models to predict human social decisions. *Scientific Reports, 15*(1), 32290.  
+   [DOI](https://doi.org/10.1038/s41598-025-17188-7)
 
-::: {.research-card}
-### Psychology & Artificial Intelligence
-Using psychological tasks and behavioral benchmarks to evaluate similarities and differences between human and artificial intelligence.
-:::
+5. **Xiao, F.**, & Wang, X. T. (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017.  
+   [DOI](https://doi.org/10.70322/ldmh.2025.10017)
+```
 
-::: {.research-card}
-### Evolutionary Psychology
-Examining human cognition and behavior from functional and evolutionary perspectives, with an emphasis on recurrent adaptive problems.
-:::
-
-::: {.research-card}
-### Cognitive Neuroscience
-Combining behavioral paradigms with neuroimaging to study the neural mechanisms underlying cognition and decision-making.
-:::
-:::
-
-## Selected publications
-
-**Xiao, F.**, Peng, Q., & Wang, X. T. (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080. [DOI](https://doi.org/10.1093/scan/nsaf080)
-
-**Xiao, F.**, Peng, Q., & Wang, X. T. (2026). Mindfulness with mental time travel: Emotional and behavioral effects of endpoint-focused meditation. *Mindfulness*, 1–12. [DOI](https://doi.org/10.1007/s12671-026-02959-8)
-
-**Xiao, F.**, Zhang, J., & Wang, X. T. (2026). Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation. *Acta Psychologica, 267*, 107147. [DOI](https://doi.org/10.1016/j.actpsy.2026.107147)
-
-**Xiao, F.**, & Wang, X. T. (2025). Evaluating the ability of large language models to predict human social decisions. *Scientific Reports, 15*(1), 32290. [DOI](https://doi.org/10.1038/s41598-025-17188-7)
-
-[View all publications →](publications.qmd)
