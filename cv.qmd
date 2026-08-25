@@ -1,6 +1,6 @@
 ---
 title: "CV"
-description: "Academic background and experience of Feng Xiao."
+description: "Academic background and experience of me."
 ---
 
 ## Education
