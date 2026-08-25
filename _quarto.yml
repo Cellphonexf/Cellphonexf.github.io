@@ -6,6 +6,7 @@ website:
   title: "Feng Xiao"
   site-url: "https://cellphonexf.github.io"
   description: "Academic website of Feng Xiao, PhD Candidate in Applied Psychology at The Chinese University of Hong Kong, Shenzhen."
+
   navbar:
     background: light
     foreground: dark
@@ -14,12 +15,11 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: publications.qmd
-        text: Publications
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
+
     right:
       - icon: github
         href: https://github.com/Cellphonexf
@@ -27,9 +27,11 @@ website:
       - icon: envelope
         href: mailto:fengxiao@link.cuhk.edu.cn
         aria-label: Email
+
   page-footer:
     left: "© 2026 Feng Xiao"
     right: "Built with Quarto · Hosted on GitHub Pages"
+
   open-graph: true
   twitter-card: true
   search: false
