@@ -1,6 +1,6 @@
 ---
-
-## title: "Feng Xiao"
+title: "Feng Xiao"
+---
 
 <img src="assets/profile.jpg" width="220" style="float: left; margin-right: 28px; margin-bottom: 16px; border-radius: 6px;">
 
@@ -16,22 +16,22 @@ I am currently working with Professor **X.T. Wang**. My research broadly focuses
 
 ## Publications
 
-1. **Xiao, F.**, Peng, Q., & Wang, X. T. (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080.
+1. **Xiao, F.**, Peng, Q., & Wang, X. T. (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080.  
    [DOI](https://doi.org/10.1093/scan/nsaf080)
 
-2. **Xiao, F.**, Peng, Q., & Wang, X. T. (2026). Mindfulness with mental time travel: Emotional and behavioral effects of endpoint-focused meditation. *Mindfulness*, 1–12.
+2. **Xiao, F.**, Peng, Q., & Wang, X. T. (2026). Mindfulness with mental time travel: Emotional and behavioral effects of endpoint-focused meditation. *Mindfulness*, 1–12.  
    [DOI](https://doi.org/10.1007/s12671-026-02959-8)
 
-3. **Xiao, F.**, Zhang, J., & Wang, X. T. (2026). Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation. *Acta Psychologica, 267*, 107147.
+3. **Xiao, F.**, Zhang, J., & Wang, X. T. (2026). Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation. *Acta Psychologica, 267*, 107147.  
    [DOI](https://doi.org/10.1016/j.actpsy.2026.107147)
 
-4. **Xiao, F.**, & Wang, X. T. (2025). Evaluating the ability of large language models to predict human social decisions. *Scientific Reports, 15*(1), 32290.
+4. **Xiao, F.**, & Wang, X. T. (2025). Evaluating the ability of large language models to predict human social decisions. *Scientific Reports, 15*(1), 32290.  
    [DOI](https://doi.org/10.1038/s41598-025-17188-7)
 
-5. **Xiao, F.**, & Wang, X. T. (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017.
+5. **Xiao, F.**, & Wang, X. T. (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017.  
    [DOI](https://doi.org/10.70322/ldmh.2025.10017)
 
-6. Lin, Z., **Xiao, F.<sup>†</sup>**, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.
+6. Lin, Z., **Xiao, F.<sup>†</sup>**, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.  
    [DOI](https://doi.org/10.1038/s41433-023-02739-x)
 
 <sup>†</sup> Equal contribution.
