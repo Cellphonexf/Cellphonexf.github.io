@@ -1,0 +1,57 @@
+---
+title: "CV"
+description: "Academic background and experience of Feng Xiao."
+---
+
+## Education
+
+**PhD in Applied Psychology**, The Chinese University of Hong Kong, Shenzhen  
+2023–2027 (expected) · Supervisor: Prof. X. T. Wang  
+Four-year full scholarship
+
+**MS in Applied Psychology**, The Chinese University of Hong Kong, Shenzhen  
+2020–2022 · GPA 3.6/4.0 · Rank 5/40  
+Academic Excellence Scholarship; Graduate Academic Excellence Award
+
+**BS in Applied Psychology**, Guangzhou Medical University  
+2016–2020
+
+## Research experience
+
+**Research Assistant**, The Chinese University of Hong Kong, Shenzhen  
+Experimental psychology and cognitive neuroscience
+
+**Research Assistant**, The Hong Kong Polytechnic University  
+Cognitive neuroscience
+
+**Research Assistant**, ShanghaiTech University  
+Behavioral economics
+
+## Teaching
+
+Teaching Assistant for English-medium courses:
+
+- Quantitative Methods — 2 semesters
+- Cognitive Psychology — 2 semesters
+- Cognitive Neuroscience
+- Sensation and Perception
+
+Responsibilities included assignment grading and tutorial sessions.
+
+## Student mentoring
+
+Mentored undergraduate research projects that have progressed to peer review and manuscript submission.
+
+## Academic service
+
+Organizing team member, 14th Chinese Psychologists Conference, 2026.
+
+## Technical skills
+
+**Experimental and neuroscience methods:** behavioral experiments, fNIRS, fMRI, EEG, eye-tracking, animal behavior  
+**Computational and analytical methods:** machine learning, text analysis, meta-analysis  
+**Programming:** MATLAB, R, Python
+
+---
+
+*A downloadable full academic CV can be added here once the English PDF version is finalized.*

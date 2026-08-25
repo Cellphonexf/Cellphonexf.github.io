@@ -1,0 +1,134 @@
+:root {
+  --ink: #243447;
+  --muted: #5f6b76;
+  --accent: #235b7e;
+  --accent-soft: #eef5f8;
+  --line: #dfe7ec;
+}
+
+body {
+  color: var(--ink);
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--line);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+h1, h2, h3 {
+  color: var(--ink);
+}
+
+h2 {
+  margin-top: 2.2rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .35rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+.hero {
+  max-width: 1120px;
+  margin: 2.8rem auto 3.2rem auto;
+  display: grid;
+  grid-template-columns: 310px 1fr;
+  gap: 3.5rem;
+  align-items: center;
+}
+
+.hero-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 22%;
+  border-radius: 8px;
+  box-shadow: 0 12px 30px rgba(28, 54, 74, .12);
+}
+
+.hero-text h1 {
+  font-size: 3.15rem;
+  margin-bottom: .2rem;
+}
+
+.hero-text h3 {
+  color: var(--accent);
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.hero-text p {
+  max-width: 760px;
+}
+
+.btn {
+  margin-right: .45rem;
+  margin-top: .35rem;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 1rem 0 2.5rem 0;
+}
+
+.research-card {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 1.25rem 1.35rem;
+  background: #fff;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+  color: var(--accent);
+}
+
+.research-card p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: transparent;
+}
+
+#quarto-content {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer.footer {
+  border-top: 1px solid var(--line);
+  margin-top: 4rem;
+}
+
+@media (max-width: 850px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+    margin-top: 1.5rem;
+  }
+
+  .hero-photo {
+    max-width: 300px;
+  }
+
+  .hero-text h1 {
+    font-size: 2.5rem;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}

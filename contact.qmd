@@ -1,0 +1,15 @@
+---
+title: "Contact"
+description: "Contact Feng Xiao."
+---
+
+I welcome academic discussions, research collaborations, and opportunities related to behavioral science, psychology, cognitive neuroscience, evolutionary approaches to human behavior, and the psychological study of artificial intelligence.
+
+**Feng Xiao**  
+PhD Candidate in Applied Psychology  
+School of Humanities and Social Science  
+The Chinese University of Hong Kong, Shenzhen
+
+**Email:** [fengxiao@link.cuhk.edu.cn](mailto:fengxiao@link.cuhk.edu.cn)  
+**ORCID:** [0000-0002-5704-6427](https://orcid.org/0000-0002-5704-6427)  
+**GitHub:** [Cellphonexf](https://github.com/Cellphonexf)

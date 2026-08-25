@@ -1,0 +1,28 @@
+---
+title: "Publications"
+description: "Publications by Feng Xiao."
+---
+
+My name is shown in **bold**.
+
+## Peer-reviewed publications
+
+1. **Xiao, F.**, Peng, Q., & Wang, X. T. (2026). Mindfulness with mental time travel: Emotional and behavioral effects of endpoint-focused meditation. *Mindfulness*, 1–12. [DOI](https://doi.org/10.1007/s12671-026-02959-8)
+
+2. **Xiao, F.**, Zhang, J., & Wang, X. T. (2026). Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation. *Acta Psychologica, 267*, 107147. [DOI](https://doi.org/10.1016/j.actpsy.2026.107147)
+
+3. **Xiao, F.**, Peng, Q., & Wang, X. T. (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080. [DOI](https://doi.org/10.1093/scan/nsaf080)
+
+4. **Xiao, F.**, & Wang, X. T. (2025). Evaluating the ability of large language models to predict human social decisions. *Scientific Reports, 15*(1), 32290. [DOI](https://doi.org/10.1038/s41598-025-17188-7)
+
+5. **Xiao, F.**, & Wang, X. T. (2025). Adaptive time management: A life-history framework integrating mental time travel, mortality awareness, and anticipatory decision-making. *Lifespan Development and Mental Health, 1*(4), 10017. [DOI](https://doi.org/10.70322/ldmh.2025.10017)
+
+## Selected conference presentations
+
+**Human Behavior & Evolution Society (HBES), 2025** · Oral Presentation  
+*Evolutionary Turing Tests: AI rationality vs. human rationality in decision making at risk*  
+Wang, X. T. & **Xiao, F.** · Atlantic City, USA
+
+**Society for Functional Near-Infrared Spectroscopy (SfNIRS), 2026** · Poster Presentation  
+*Comparing Terror Management and Time Management: The Effects of Mortality Awareness on Time Perception, Delay Discounting, and Monetary Allocation*  
+**Xiao, F.**, Zhang, J., & Wang, X. T. · Macau, China
