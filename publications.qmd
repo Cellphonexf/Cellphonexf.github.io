@@ -22,10 +22,10 @@ title: "Publications"
 6. Lin, Z.<sup>&#42;</sup>, **Xiao, F.**<sup>†</sup>, & Cheng, W.<sup>†</sup> (2024). Eye exercises for myopia prevention and control: A comprehensive systematic review and meta-analysis of controlled trials. *Eye, 38*, 473–480.  
    [DOI](https://doi.org/10.1038/s41433-023-02739-x)
 
-7. Zeng, T., Lin, C., Deng, Y., Lin, J., **Xiao, F.**, Shang, H., & Chen, S.<sup>&#42;</sup> (2023). Bacteroides fragilis BF839 can improve anxiety and hyperactivity of fragile X-mental retardation gene 1 knockout mice under different environments. *Chinese Journal of Biomedical Engineering, 29*(4), 404–408.  
+7. Zeng, T., Lin, C., Deng, Y., Lin, J., **Xiao, F.**, Shang, H., & Chen, S.<sup>&#42;</sup> (2023). Bacteroides fragilis BF839 can improve anxiety and hyperactivity of fragile X-mental retardation gene 1 knockout mice under different environments. *Chinese Journal of Biomedical Engineering, 29*(4), 404–409.  
    [DOI](https://doi.org/10.3760/cma.j.cn115668-20230313-00047)
 
-8. Lin, C., Zeng, T., Lin, J., **Xiao, F.**, Duan, X., Chen, S., & Deng, Y.<sup>&#42;</sup> (2022). Bacteroides fragilis BF839 can improve learning, memory and social novelty of fragile X-mental retardation gene 1 knockout mice. *Chinese Journal of Neuromedicine, 21*(4), 341–346.  
+8. Lin, C., Zeng, T., Lin, J., **Xiao, F.**, Duan, X., Chen, S., & Deng, Y.<sup>&#42;</sup> (2022). Bacteroides fragilis BF839 can improve learning, memory and social novelty of fragile X-mental retardation gene 1 knockout mice. *Chinese Journal of Neuromedicine, 21*(4), 341–347.  
    [DOI](https://doi.org/10.3760/cma.j.cn115354-20211220-00835)
 
 9. Yan, Y., Zhang, L., Dai, J., **Xiao, F.**, Tang, S., Luo, Y., Liu, X., Wu, J., Chang, L., Lai, W., Miao, W., & Chen, S.<sup>&#42;</sup> (2019). Effect of Jiawei Gan-mai jujube decoction in chronic stress depression mice. *Guangzhou Medical Journal, 50*(6), 51–55.  
@@ -40,7 +40,7 @@ title: "Publications"
 
 ### 2026
 
-**Xiao, F.**, Zhang, J., & Wang, X. T. (2026, December). *Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation.* Poster presentation at the IX Biennial Meeting of the Society for Functional Near-Infrared Spectroscopy (SfNIRS 2026), Macau, China.
+**Xiao, F.**, Zhang, J., & Wang, X. T. (2026, October). *Comparing terror management and time management: The effects of mortality awareness on time perception, delay discounting, and monetary allocation.* Poster presentation at the IX Biennial Meeting of the Society for Functional Near-Infrared Spectroscopy (SfNIRS 2026), Macau, China.
 
 ### 2025
 
@@ -52,6 +52,6 @@ Wang, X. T., & **Xiao, F.** (2025, June). *Evolutionary Turing Tests: AI rationa
 
 Xu, Q., Peng, Y., Wu, M., **Xiao, F.**, Chodorow, M., & Li, P. (2023, October). *Multimodal conceptual representation: Do ChatGPT/LLMs require embodiment to reach human-level representation?* Poster presentation at the 15th Annual Meeting of the Society for the Neurobiology of Language (SNL 2023), Marseille, France.
 
-### 2021
+### 2020
 
-**Xiao, F.**, Xiao, X., & Lin, Z. (2021). *Reward associative learning does not automatically alter cortical responses measured by steady-state visual evoked potentials.* Poster presentation at the Greater Bay Area Young Scholar Forum on Psychological Science.
+**Xiao, F.**, Xiao, X., & Lin, Z. (2020). *Reward associative learning does not automatically alter cortical responses measured by steady-state visual evoked potentials.* Poster presentation at the Greater Bay Area Young Scholar Forum on Psychological Science (GBA 2020), Shenzhen, China.
