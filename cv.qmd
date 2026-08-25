@@ -53,5 +53,3 @@ Organizing team member, 14th Chinese Psychologists Conference, 2026.
 **Programming:** MATLAB, R, Python
 
 ---
-
-*A downloadable full academic CV can be added here once the English PDF version is finalized.*
