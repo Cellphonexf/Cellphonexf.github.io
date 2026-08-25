@@ -10,10 +10,6 @@ I am currently working with Professor **X.T. Wang**, who is my PhD advisor. My r
 
 <div style="clear: both;"></div>
 
-## Research Interests
-
-**Behavioral Decision-Making · Artificial Intelligence and Psychology · Evolutionary Psychology · Cognitive Neuroscience**
-
 ## Publications
 
 1. **Xiao, F.**, Peng, Q., & Wang, X. T.<sup>&#42;</sup> (2025). Intertemporal meditation regulates time perception and emotions: An exploratory fNIRS study. *Social Cognitive and Affective Neuroscience, 20*(1), nsaf080.  
