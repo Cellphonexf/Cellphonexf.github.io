@@ -11,7 +11,7 @@ My research approaches behavioral decision-making from two complementary perspec
 
 ---
 
-## 01 · Autonoetic Consciousness, Mental Time Travel, and Decision-Making
+## 01 · Human Decision-Making: Mental Time Travel and Storytelling
 
 Humans can mentally revisit the past and imagine their own futures—a capacity known as **autonoetic consciousness**. It allows us to construct autobiographical narratives about our lives, including where our life stories may lead. I study how this form of **self-storytelling** shapes our sense of time, emotions, and decisions.
 
@@ -23,7 +23,7 @@ Our **adaptive time management** framework proposes that awareness of life's lim
 
 [Read the theoretical framework](https://doi.org/10.70322/ldmh.2025.10017)
 
-### Testing Competing Explanations
+### Mortality Awareness: Time Management vs. Terror Management
 
 We compared **adaptive time management** with **terror management theory**, using behavioral decisions and fNIRS to examine how reflection on life's endpoint changes time perception and present–future trade-offs. The findings offer evidence for a strategic time-management account, beyond an explanation based solely on fear and defense.
 
@@ -37,9 +37,15 @@ We developed **intertemporal meditation**, combining mindfulness with mental tim
 
 [Neuroscience study — *SCAN*](https://doi.org/10.1093/scan/nsaf080) · [Behavioral study — *Mindfulness*](https://doi.org/10.1007/s12671-026-02959-8)
 
+### Ongoing Research: Narrative Problem-Solving and Human Universals
+
+**Beyond self-storytelling**, my ongoing research explores whether human narratives reveal **evolved psychological universals** across cultures and history. I examine recurring narrative themes related to fundamental adaptive problems, such as survival, reproduction, and social cooperation.
+
+More broadly, I am developing the concept of **narrative problem-solving**: how humans use storytelling as a strategy to represent and navigate adaptive problems, guiding behavior and decision-making.
+
 ---
 
-## 02 · Human and Artificial Intelligence in Decision-Making
+## 02 · Human–AI Decision-Making
 
 Can large language models reproduce **how humans adapt their decisions to social situations**—not just predict which option people choose?
 
@@ -54,4 +60,3 @@ In our published work, we compared human decisions with predictions from GPT mod
 My current work examines **functional alignment**: whether AI agents change their choices in human-like ways *when the context changes*. I am also interested in whether successive generations of language models move toward **human adaptive patterns** or toward more rigid, extreme responses.
 
 The goal is not simply to measure AI performance, but to use human–AI differences to better understand **the distinctive features of human decision-making**.
-
